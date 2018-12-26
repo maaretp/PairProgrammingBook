@@ -1,5 +1,5 @@
 00_Thank you.md
 01_What is Strong-Style Pair Programming.md
 02_Story from early days.md
-03_Styles of Pairing.md
+03_Styles of pairing.md
 04_Driver and Navigator.md
