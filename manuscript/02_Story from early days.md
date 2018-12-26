@@ -1,4 +1,4 @@
-## Story from Early Days
+# Story from Early Days
 
 As I had realized there were such a thing as Strong-Style Pair Programming, I set out in 2015 to interview some people who had early experiences.
 
