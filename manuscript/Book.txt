@@ -1,2 +1,4 @@
 00_Thank you.md
-
+01_What is Strong-Style Pair Programming.md
+02_Style of Pairing.md
+03_Driver and Navigator.md

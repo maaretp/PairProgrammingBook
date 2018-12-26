@@ -1,12 +1,12 @@
 # What is Strong-Style Pair Programming
 
-For Pair Programming, you have two people, one task and a shared computer the pair works on. In the pair you are either contributing or learning, or both. When you are contributing, you get the best out of both of you into the work you are doing. And when you are learning, you are a little bit better next time you do things, with or without the pair. Why would we not want that?
+For Pair Programming, you have two people, one task and a shared computer the pair works on. In the pair you are either contributing or learning, or both. When you are contributing, you get the best out of both of you into the work you are doing. And when you are learning, you are a little bit better next time you do things, with or without the pair. It's not about taking turns using the computer or being someone else's typist, but engaging two minds on the same problem so that a solution can be developed more quickly and with higher quality than if one person was working on it alone. Why would we not want that?
 
 The experience for many people is that the discomfort of pairing outweighs the benefits. And when we try it and don't feel we contributed or learned, we don't want to try again.
 
 I actively avoided pairing up to a point where I learned that there are options for setting up the pairing relationship. What I had been doing was traditional pairing, where the person with the idea would take the keyboard. I found myself often being either the less experienced programmer or the more uncomfortable half of the pair, and watching someone do things I could barely follow. I watched a similar dynamic on courses I taught where I had people pair without giving them specific style or rules.
 
-When I learned there was another way of playing with the pairing dynamics, used in mob programming as a core practice, called Strong-Style Pairing, I found the contributing and learning I was always looking for.
+When I learned there was another way of playing with the pairing dynamics, used in mob programming as a core practice, called **Strong-Style Pairing**, I found the contributing and learning I was always looking for.
 
 ## Strong-Style Pair Programming Defined
 
@@ -14,17 +14,12 @@ In Strong-Style Pair Programming, every single idea must actively flow through t
 
 For an idea to get to the keyboard, you need the pairs hands to do the typing for you. If you have an idea, you ask your pair to take the keyboard.
 
-Contrast this with traditional pair programming, where the one with the idea takes the keyboard. The dynamic is significantly different.
+![Strong-Style Pair Programming](images/StrongStyle.png)
 
-The term Strong-Style was coined by Arlo Belshee to distinguish this style of pair programming. Giving the style a name helped it move from a rude style of an overconfident jerk being a backseat driving to redefining roles in pair differently to increase engagement, in particularly when skill difference in a pair was evident. It still feels rude when done without the pair's consent and has resulted in several ends of pairing relationships. 
+Contrast this with traditional pair programming, where the one with the idea takes the keyboard. The dynamic is significantly different. Even if the driver speaks out loud of their thoughts as they are doing the work, in traditional style the navigator is in a review role continuously translating both thoughts and actions of their pair.
 
+![Traditional Pair Programming](images/Traditional.png)
 
+When the driver is service to the navigator by dealing with the details of what goes on on the computer and the navigator is in service to the driver by directing at the highest level of abstraction, the driver can pick up work as navigator feeds it, and pairing can be effective.
 
-
-
-
-
-
-
-
-- getting the best out of both of you into the work you're doing - or learning - making y
+The term Strong-Style was coined by Arlo Belshee to distinguish this style of pair programming observed in the wild in conference sessions.
