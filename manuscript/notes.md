@@ -47,3 +47,12 @@ Trust is a critical issue – ask for trust from your partner
 Quote from [Hello TechPros Productivity Tuesday](http://hellotechpros.com/llewellyn-falco-productivity/):
 
 ![Forcing Pairing](images/ForcingPairing.png)
+
+
+# Not Knowing the Styles
+
+I did not know there could be different styles to pairing, but I kept on trying it out with people. I found myself lost in both driver and navigator roles.
+
+If I would take the role of the driver, I would feel the weight of the world on my shoulders. I would feel someone watching me. I have hard time multitasking, so when I would try to use words to explain what I was doing, the words I was saying turned into words I was typing. Focusing on typing, I had my navigator fall asleep or jump in to volunteer for the keyboard, making me feel like a failure.
+
+If I would take the role of the navigator, I would find it hard to know when to correct a typo. Should I count to 10 and annoy my driver less or correct it as I saw it emerge? I was unsure of what feedback was appropriate, and had hard time following some other folks ways of working. The programming we did was most often not test-driven, and the mechanisms of discussing intent of what we'd be building next were at most crude. 
