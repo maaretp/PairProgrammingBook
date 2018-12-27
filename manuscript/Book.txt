@@ -4,3 +4,4 @@
 03_Styles of pairing.md
 04_Driver and Navigator.md
 09_Dont be a backseat driver.md
+10_Collaborate Beyond pairing.md
