@@ -20,3 +20,30 @@ We may think of the driver as an intelligent input device. Intelligence means th
 The navigator is responsible for mining the to-do list and passing the next things to do with instructions on the highest possible abstraction level.
 
 This all builds on trust. The navigator may be just one step ahead of you, and thus unable to give you a clear overview of what you're about to do. The direction the navigator is going to is where the driver goes. When the driver has an idea, the roles can be switched keeping the basic rule in mind: for an idea to get on the computer, it must go through someone else's hands.
+
+## stuff
+
+It’s a waste of money to hire a programmer and not pair them with another
+It’s our differences that make us stronger
+When we work together with someone, we are in the zone together for longer periods of time
+It is easier to focus and you aren’t distracted as much
+When someone is “watching” us work, or working with us, we are more inclined to use best-practices
+We feed off the other person, we bring good things out of each other
+“I’ll come back to this later” usually means “I don’t want to do this”
+In code reviews, not much generally changes in the code
+  bs.
+We get feedback occasionally but by and large the structure of the software stays the same
+  bs.
+When you want to pair-program, sometimes it’s better to ask for forgiveness than permission
+   sometimes you are not forgiven, several lost pairs...
+   if you lose 20% of the people you pair with, is it better?
+Paired work is more intensive – strive for 4-5 hours of paired work then take a break
+  an hours and then break, max in day to 4-5 hrs
+Trust is a critical issue – ask for trust from your partner
+  feeling comfortable -- when one of you is always right
+  getting more than losing makes a difference
+
+
+Quote from [Hello TechPros Productivity Tuesday](http://hellotechpros.com/llewellyn-falco-productivity/):
+
+![Forcing Pairing](images/ForcingPairing.png)
