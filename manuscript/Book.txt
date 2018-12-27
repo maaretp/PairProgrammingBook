@@ -1,6 +1,6 @@
 000_Thank you.md
 001_Prologue.md
-001_What is Strong-Style Pair Programming.md
+010_What is Strong-Style Pair Programming.md
 015_Story from early days.md
 020_Dont be a backseat driver.md
 030_Styles of pairing.md
