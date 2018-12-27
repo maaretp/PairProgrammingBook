@@ -8,6 +8,20 @@ The earliest stories from podcasts are around the idea that a programmer felt be
 
 The better stories evolve into both parties in the pair taking both roles, even with the dynamic of strong-style in place.
 
+## Origins
+
+20 years ago, a programmer had a good first experience pairing. Being a junior, a senior took them under their wing, sat them next to a keyboard and told them what to type. They learned a lot, but also, as the senior's ideas were flowing through their fingers, they could speak back, suggest different ways, question what the direction was and control the pace of how things flowed between the two of them. Having a view into how a senior would do this, while bring in control of the pace was a great experience.
+
+The first great experience defined pairing for them for years. They modeled after the first experience, pairing so that whoever had the idea, was not at the keyboard. They realized they did something different only when they started going to Agile conferences and finding other programmers who were pairing regularly.
+
+The response to their style of pairing was not a welcoming one. For people being surprised by it, it was thought of as arrogant and going into details of how to use an IDE. For people looking at it from the outside, it looked bossy and even argumentative.
+
+The difference became clear, and the community had a realization: there were two significantly different ways of sharing the roles and responsibilities in a driver-navigator pair. The traditional way and a way that was named Strong-style pair programming by Arlo Belshee.
+
+Strong-style pair programming of the early days could often be indistinguishable from backseat driving. The folklore includes stories of a pair refusing to ever move from driver to navigator and leaving company stressed about the style.
+
+But as often happens with practices, they mature as more people look into them and as people themselves grow. When an arrogant junior developer realizes that arrogance isn't helping them, they learn kindness, consideration and respect. They learn that a pair is two people, and that both have things to contribute and stepping back may be necessary for some people to contribute in the first place. I believe these lessons are what turned the early Strong-style pair programming away from backseat driving, and into a pairing style of its own. 
+
 ## Learned at Agile 2015
 
 I interviewed someone with Strong-Style Experience in Agile 2015 conference on August 7th. Here's an edited transcript.
