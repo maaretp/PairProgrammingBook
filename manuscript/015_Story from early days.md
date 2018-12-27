@@ -20,13 +20,13 @@ The difference became clear, and the community had a realization: there were two
 
 Strong-style pair programming of the early days could often be indistinguishable from backseat driving. The folklore includes stories of a pair refusing to ever move from driver to navigator and leaving company stressed about the style.
 
-But as often happens with practices, they mature as more people look into them and as people themselves grow. When an arrogant junior developer realizes that arrogance isn't helping them, they learn kindness, consideration and respect. They learn that a pair is two people, and that both have things to contribute and stepping back may be necessary for some people to contribute in the first place. I believe these lessons are what turned the early Strong-style pair programming away from backseat driving, and into a pairing style of its own. 
+But as often happens with practices, they mature as more people look into them and as people themselves grow. When an arrogant junior developer realizes that arrogance isn't helping them, they learn kindness, consideration and respect. They learn that a pair is two people, and that both have things to contribute and stepping back may be necessary for some people to contribute in the first place. I believe these lessons are what turned the early Strong-style pair programming away from backseat driving, and into a pairing style of its own.
 
 ## Learned at Agile 2015
 
 I interviewed someone with Strong-Style Experience in Agile 2015 conference on August 7th. Here's an edited transcript.
 
-I was in a session at an agile conference, the session was …test code … They were talking about a developer and tester pairing and the benefits of that. And it was a great session. And the really cool thing was that it was really hands-on.
+I was in a session at an agile conference. They were talking about a developer and tester pairing and benefits of that. And it was a great session. And the really cool thing was that it was really hands-on.
 
 So we were pairing at a table. I had this guy there. The guy was kind of cocky. He’s got like blue hair and and I’m pairing with him. I’m like "great". And we’re using Eclipse and I don’t know eclipse a lot. And he asked me that. He noticed my hesitation and said “how well you know this IDE”. And I said it’s not my thing. And he says that’s ok, because I’m going to tell you what to type. And I thought maybe he thinks I’m new to pair programming or something and I don’t know about this, but no, I was in for a whole new world of understanding. Because the person introduced me to what is now modified to be called Strong-Style pair programming.
 
@@ -45,3 +45,5 @@ There are a few lessons to draw from the story.
    * With hands on keyboard and a strong-style pair programming experience, the navigator can use words to transfer knowledge in a way that is actionable for the driver learning the knowledge.
 
    * It looks like backseat driving and without consent can be very uncomfortable
+
+   * The session was on testing and was hijacked to be on IDE use - the backseat driver's preferred thing to teach

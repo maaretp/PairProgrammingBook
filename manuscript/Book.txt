@@ -1,7 +1,8 @@
-00_Thank you.md
-01_What is Strong-Style Pair Programming.md
-02_Story from early days.md
-03_Styles of pairing.md
-04_Driver and Navigator.md
-09_Dont be a backseat driver.md
-10_Collaborate Beyond pairing.md
+000_Thank you.md
+001_Prologue.md
+001_What is Strong-Style Pair Programming.md
+015_Story from early days.md
+020_Dont be a backseat driver.md
+030_Styles of pairing.md
+040_Driver and Navigator.md
+050_Collaborate Beyond pairing.md
